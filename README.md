@@ -4,6 +4,8 @@ A toggle-able right sidebar mod for Claude Code showing usage limits, context
 window, prompt-cache countdown, per-turn activity, session stats and touched
 files. Colors use your terminal's 16-color palette, so they follow your shell theme.
 
+![ccsidebar showing limits, context, cache, activity, session and files](assets/preview.png)
+
 ## Use
 
 - `/sidebar` toggles the pane. `r` refreshes, `x` closes while it has focus.
