@@ -1,0 +1,10 @@
+{
+  "name": "ccsidebar",
+  "version": "0.1.0",
+  "description": "Toggle-able right sidebar for Claude Code: usage limits, context window, prompt-cache countdown, activity and touched files",
+  "author": {
+    "name": "Richard Parayno"
+  },
+  "repository": "https://github.com/richard-parayno/ccsidebar",
+  "types": "./types/index.d.ts"
+}

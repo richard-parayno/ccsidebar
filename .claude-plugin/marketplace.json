@@ -1,0 +1,15 @@
+{
+  "name": "ccsidebar",
+  "description": "Claude Code mods by Richard Parayno",
+  "owner": {
+    "name": "Richard Parayno"
+  },
+  "plugins": [
+    {
+      "name": "ccsidebar",
+      "source": "./",
+      "description": "Toggle-able right sidebar for Claude Code: usage limits, context window, prompt-cache countdown, activity and touched files",
+      "version": "0.1.0"
+    }
+  ]
+}
